@@ -32,7 +32,7 @@ The fundamental goal of this project is to collaborate with Tupan, an existing i
 ## Architecture
 ![Architeture](https://github.com/Lilium-ZenCon/.github/assets/99221221/96a06143-3ae4-4324-963f-40b48c79ef49)
 > ***Disclaimer:*** For this project, a frontend page was created to simulate the hardware, but it has already been tested in previous situations. Below is a photo. 
-### Hardware
+### Hardware photo
 
 ![hardware](https://github.com/Lilium-ZenCon/.github/assets/99221221/1ffb5b22-ed68-4ae9-bdcc-ba654e648b41)
 

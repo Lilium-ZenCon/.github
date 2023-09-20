@@ -1,6 +1,7 @@
 # Lilium - Decentralized carbon credit certifier fueled by real-time data
 ## ZENCON Hackathon 2023
 ## [Trailer]()
+## [Slides](https://www.canva.com/design/DAFrM9f8gaw/ng-MuqGVQMXAjAMQbf_IKw/edit?utm_content=DAFrM9f8gaw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ![5](https://github.com/Lilium-ZenCon/.github/assets/99221221/ecd26c91-b59e-4c95-b505-33b38dac12ff)
 
